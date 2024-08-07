@@ -12,7 +12,6 @@ Welcome to Blood Recruit, a project developed during the Prajwalan Hackathon 202
 - [Usage](#usage)
 - [Twilio Integration](#twilio-integration)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
